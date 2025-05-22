@@ -52,9 +52,10 @@ Este aplicativo tem como objetivo substituir os processos manuais utilizados atu
 
 ## 🤝 Contribuidores
 
-- [Seu Nome Aqui]
-- [Nome do colega 2]
-- [Nome do colega 3]
+- Luis Vinicius
+- Adonis Vinicius
+- Alan Vitor
+- João Victor Assis
 
 > Projeto desenvolvido no curso de Análise e Desenvolvimento de Sistemas – SENAC, 5º período.
 
